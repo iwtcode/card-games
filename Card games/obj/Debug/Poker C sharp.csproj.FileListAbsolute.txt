@@ -1,0 +1,19 @@
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\bin\Debug\Poker C sharp.exe.config
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\bin\Debug\Poker C sharp.exe
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\bin\Debug\Poker C sharp.pdb
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker C sharp.csproj.AssemblyReference.cache
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.Properties.Resources.resources
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker C sharp.csproj.GenerateResource.cache
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker C sharp.csproj.CoreCompileInputs.cache
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker C sharp.exe
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker C sharp.pdb
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.StartForm.resources
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.PokerForm.resources
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.GamesForm.resources
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.BjForm.resources
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.LoginForm.resources
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.ProfileForm.resources
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.SettingsForm.resources
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.RulesPokerForm.resources
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.RulesBjForm.resources
+C:\Users\enott\source\repos\Poker C sharp\Poker C sharp\obj\Debug\Poker_C_sharp.RatingForm.resources

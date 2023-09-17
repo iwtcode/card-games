@@ -1,0 +1,39 @@
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.BjForm.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.GamesForm.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.LoginForm.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.ProfileForm.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.RatingForm.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.RulesBjForm.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.RulesPokerForm.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.SettingsForm.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.StartForm.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.PokerForm.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.Properties.Resources.resources
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Card games.csproj.GenerateResource.cache
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Card games.csproj.CoreCompileInputs.cache
+C:\Users\enott\source\repos\Card games\Card games\bin\Debug\Card games.exe.config
+C:\Users\enott\source\repos\Card games\Card games\bin\Debug\Card games.exe
+C:\Users\enott\source\repos\Card games\Card games\bin\Debug\Card games.pdb
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Card games.exe
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Card games.pdb
+C:\Users\enott\source\repos\Card games\Card games\obj\Debug\Card games.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Card games\Card games\bin\Debug\Card games.exe.config
+C:\Users\User\source\repos\Card games\Card games\bin\Debug\Card games.exe
+C:\Users\User\source\repos\Card games\Card games\bin\Debug\Card games.pdb
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Card games.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Card games.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.BjForm.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.GamesForm.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.LoginForm.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.ProfileForm.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.RatingForm.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.RulesBjForm.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.RulesPokerForm.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.SettingsForm.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.StartForm.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.PokerForm.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Poker_C_sharp.Properties.Resources.resources
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Card games.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Card games.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Card games.exe
+C:\Users\User\source\repos\Card games\Card games\obj\Debug\Card games.pdb

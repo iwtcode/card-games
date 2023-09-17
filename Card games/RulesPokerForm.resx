@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Всем игрокам раздают по две карты, 
+которые являются их личными (соперники их не видят). 
+Затем на стол поэтапно выкладываются 5 общих карт, 
+которые могут быть использованы для построения 
+покерных комбинаций любым из игроков
+
+В ходе 4-х раундов торговли игроки делают ставки в банк. 
+В финале личные карты открываются, и игрок, собравший 
+наиболее сильную комбинацию, выигрывает банк</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>"Флоп" - стадия игры, на которой вскрываются 
+первые три общие на столе
+"Тёрн" - вскрытие четвёртой карты
+"Ривер" - вскрытие последней пятой карты
+
+Финальное вскрытие карт или "Шоудаун" -
+На финальном этапе раздачи оставшиеся в банке игроки 
+открывают карты и сравнивают свои комбинации. 
+Игрок, собравший наиболее сильную «руку» (комбинацию), 
+забирает весь банк. В случае, если два или более игроков
+собирают одинаковую по силе комбинацию, 
+то банк делится между такими игроками в равных долях</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>В торговом раунде игроки поочередно 
+совершают нижеуказанные действия, 
+передавая ход друг другу по часовой стрелке
+
+В этих раундах возможны разные варианты действий игроков:
+"Фолд" — Сбросить карты. В любой момент 
+в свой ход каждый игрок может отказаться 
+от борьбы за банк и скинуть карты, чтобы
+потерять меньше фишек
+
+"Бет" — Сделать ставку. Действие, когда игрок 
+первым в раунде ставит деньги в банк — называется "Бет" 
+или Сделать Ставку. Если кто-либо из игроков сделал "Бет", 
+то остальным участникам данной раздачи 
+нужно как минимум уравнять ставку для того, 
+чтобы остаться в игре, или же сбросить карты. 
+Размер ставки ставки "Бет" равен "Блайнду"
+
+"Рейз" — Повысить ставку. Помимо уравнивания, 
+ставку оппонента можно повысить — сделать "Рейз". 
+В этом случае все игроки, желающие продолжить игру, 
+должны доставить в банк общую сумму вклада 
+повышающего игрока. В ответ на повышение
+соперник может в свою очередь еще раз повысить
+
+"Чек" — Передача Хода. Если перед ходом игрока 
+не было ставок, то он может пропустить торговлю, 
+передав ход следующему игроку.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>После того, как ставки поставлен, каждый игрок получает 
+две карты, и начинается торговля в первом раунде, 
+который называется "префлоп"
+
+В этом раунде неизвестны никакие карты,
+кроме личных двух. Игроки оценивают силу 
+своих карт и принимают решения 
+делать ли им ставки, повышать или пассовать</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Перед тем, как игрокам будут розданы карты, 
+игроку необходимо выделить некоторое 
+кол-во фишек, чтобы совершать ставки - это и есть "Стек",
+он взимается с баланса на игру 
+и возвращается по её окончанию
+
+"Блайнд" - минимальная ставка на игру, равна 5% от "Стека"
+и каждое повышение ставки равно "Блайнду"</value>
+  </data>
+</root>
